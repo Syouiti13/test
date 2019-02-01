@@ -1,0 +1,17 @@
+package person;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+	Person zirou = new Person();
+	zirou.name="木村次郎";
+	zirou.age=18;
+
+	System.out.println(zirou.name);
+	System.out.println(zirou.age);
+	}
+	}
+
+
