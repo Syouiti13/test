@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<mata charset="UTF-8">
+<meta charset="UTF-8">
 <title>お問い合わせフォーム</title>
 </head>
 <body>

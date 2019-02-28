@@ -18,6 +18,10 @@ public class InquiryDTO {
 		return qtype;
 	}
 
+	public void setQtype(String qtype) {
+		this.qtype = qtype;
+	}
+
 	public String getBody() {
 		return body;
 	}

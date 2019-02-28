@@ -9,6 +9,6 @@
 <body>
 <h1>HelloStruts2!</h1>
 <br>
-<h3>MySQL1と接続できます。</h3>
+<h3>MySQLと接続できます。</h3>
 </body>
 </html>

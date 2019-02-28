@@ -10,7 +10,7 @@ public class TestAction extends ActionSupport{
 	public String execute() {
 		String ret=ERROR;
 		TestDAO dao=new TestDAO();
-		int count=dao.insert(username, password);
+		int count=dao.insert(username,password);
 		if(count>0){
 			ret=SUCCESS;
 		}

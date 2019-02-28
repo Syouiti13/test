@@ -20,7 +20,7 @@ public class HelloStrutsDAO {
 			ResultSet rs = ps.executeQuery();
 
 			if(rs.next()) {
-				dto.setResult("MySQLとできます。");
+				dto.setResult("MySQLと接続できます。");
 			}else{
 				dto.setResult("MySQLと接続できません。");
 			}
